@@ -1,0 +1,18 @@
+{
+  "name": "test-requestum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest "
+  },
+  "author": "Alex Popov",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
